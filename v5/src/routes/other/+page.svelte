@@ -1,7 +1,5 @@
 <script>
-  import { getContext } from "svelte";
-
-  console.log("/other (page)", getContext("data"));
+  console.log("/other (page)");
 </script>
 
 <a href="/">To /</a>
