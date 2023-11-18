@@ -1,0 +1,13 @@
+/v4/node_modules
+/v4/build
+/v4/.svelte-kit
+/v4/package
+/v4/vite.config.js.timestamp-*
+/v4/vite.config.ts.timestamp-*
+
+/v5/node_modules
+/v5/build
+/v5/.svelte-kit
+/v5/package
+/v5/vite.config.js.timestamp-*
+/v5/vite.config.ts.timestamp-*
